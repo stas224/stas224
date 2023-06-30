@@ -5,4 +5,4 @@
 <a href="https://t.me/stas224stas">
   <img align="left" alt="Abhishek's Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-![My github stats](https://github-readme-stats.vercel.app/api?username=stas224&show_icons=true&theme=radical)
+![Stas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=stas224&show_icons=true&theme=radical)
